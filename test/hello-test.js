@@ -3,7 +3,7 @@ import assert from 'power-assert';
 import Hello from '../src/hello';
 import {World} from '../src/hello';
 
-describe('Color parsers', () => {
+describe('Hello World', () => {
   it('Hello', () => {
     const name = 'A';
     const instance = new Hello(name);
